@@ -1,3 +1,5 @@
+package firstGitPackage;
+
 public class Greating {
     public static void main(String[] args) {
 
